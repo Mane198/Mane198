@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Mane198
-- 👀 I’m interested in QA manual
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in QA manual.
 - 💞️ I’m looking to collaborate on QA
 - 📫 How to reach me ...
 
